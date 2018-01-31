@@ -1,0 +1,17 @@
+name:John VonDrashek
+phone:9402120384
+address:1300 Marble Cove Lane
+email:judgejohn@live.com
+education:
+    high school:
+        name:homeschool
+        gpa:4.0
+        classes:Computer Science I
+        graduation date:2017
+    college:
+        graduation date:2019
+        degree:Computer Science
+        classes:Computer Science II, C++/C Programming in a Unix environment
+        gpa:4.0
+activities:
+volunteer work:Lion's Club Eye Clinic

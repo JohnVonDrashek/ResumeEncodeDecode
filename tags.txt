@@ -1,0 +1,17 @@
+name:~
+phone:~
+address:~
+email:~
+education:
+    high school:
+        name:
+        gpa:
+        classes:[]
+        graduation date:
+    college:
+        graduation date:
+        degree:
+        classes:[]
+        gpa:
+activities:
+volunteer work:
